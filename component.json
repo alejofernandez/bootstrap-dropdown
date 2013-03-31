@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-dropdown",
+  "repo": "codemix/bootstrap-dropdown",
+  "description": "The dropdown plugin from twitter bootstrap",
+  "version": "2.3.1",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
