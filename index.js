@@ -1,7 +1,7 @@
 function(){
   var jQuery = require('jquery');
   /* ============================================================
-   * bootstrap-dropdown.js v2.0.0
+   * bootstrap-dropdown.js v2.0.1
    * http://twitter.github.com/bootstrap/javascript.html#dropdowns
    * ============================================================
    * Copyright 2012 Twitter, Inc.
@@ -91,6 +91,5 @@ function(){
       $('body').on('click.dropdown.data-api', toggle, Dropdown.prototype.toggle)
     })
   
-  }( jQuery )
-  
+  }( jQuery );
 }
