@@ -1,4 +1,4 @@
-function(){
+(function(){
   var jQuery = require('jquery');
   /* ============================================================
    * bootstrap-dropdown.js v2.3.1
@@ -166,4 +166,4 @@ function(){
   
   }(jQuery);
   
-}()
+})()
