@@ -166,4 +166,4 @@ function(){
   
   }(jQuery);
   
-}
+}()
